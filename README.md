@@ -11,3 +11,7 @@
 - Entity Framework
 - Postman
 - Git Bash
+
+##### License: 
+
+- MIT
