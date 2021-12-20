@@ -18,7 +18,6 @@
 
 ##### Tools: 
 
-- Entity Framework
 - Postman
 - Git Bash
 
