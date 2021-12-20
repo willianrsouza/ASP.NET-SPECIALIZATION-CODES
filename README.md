@@ -1,4 +1,4 @@
-# Freelancer Quick
+# Freelancer Platform
 
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/logo.png" align="right"
      alt="Freelancer Logo" width="250" height="240">
