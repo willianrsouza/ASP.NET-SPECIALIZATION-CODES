@@ -1,5 +1,5 @@
 
-# ASP.NET CORE SPECIALIZATION
+# PROJECT ASP.NET CORE SPECIALIZATION 
 
 - Project performed during my specialization in **ASP.NET**
 
