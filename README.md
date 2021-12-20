@@ -1,7 +1,7 @@
 # Freelancer Quick
 
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/logo.png" align="right"
-     alt="Freelancer Logo" width="200" height="200">
+     alt="Freelancer Logo" width="300" height="300">
 
 The technology market continues to grow. And with that, the demand for professionals
 who can work on specific projects follows the same pace. **DevFreela** is a platform that 
