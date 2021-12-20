@@ -1,5 +1,5 @@
 # Freelancer Quick
-<img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/Freelancer.png" align="right"
+<img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/logo.png" align="right"
      alt="Freelancer Logo" width="200" height="200">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
