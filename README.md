@@ -1,5 +1,4 @@
-# Freelancer [cult-willian][cult-img]][cult]
-
+# Freelancer Quick
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/Freelancer.png" align="right"
      alt="Freelancer Logo" width="200" height="200">
 
