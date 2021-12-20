@@ -1,7 +1,7 @@
 ## Freelancer Platform
      
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
-     alt="Freelancer Logo" width="200" height="190">
+     alt="Freelancer Logo" width="220" height="210">
 
 The technology market continues to grow. And with that, the demand for professionals
 who can work on specific projects follows the same pace. **DevFreela** is a platform that 
