@@ -5,7 +5,7 @@
 
 ##### DevFreela
 
-- The technology market continues to grow. And with that, the demand for professionals who can work on specific projects follows the same pace. **DevFreela** is a platform that facilitates the registration and contracting of **Freenlance** services from developers.
+- The technology market continues to grow. And with that, the demand for professionals who can work on specific projects follows the same pace. **DevFreela** is a platform that facilitates the registration and contracting of ** ' Freenlance '** services from developers.
 
 ##### Applied Concepts: 
 
