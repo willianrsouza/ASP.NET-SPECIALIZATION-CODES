@@ -10,6 +10,11 @@
 ##### Applied Concepts: 
 
 - Clean Architecture
+- AWS Services
+
+##### IDE'S: 
+
+- Visual Studio
 
 ##### Tools: 
 
