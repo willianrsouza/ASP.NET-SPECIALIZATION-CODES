@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/logo.png" align="right"
      alt="Freelancer Logo" width="250" height="240">
 
-- The technology market continues to grow. And with that, the demand for professionals
+The technology market continues to grow. And with that, the demand for professionals
 who can work on specific projects follows the same pace. **DevFreela** is a platform that 
 facilitates the registration and contracting of **Freenlance** services from developers.
 
@@ -26,3 +26,11 @@ facilitates the registration and contracting of **Freenlance** services from dev
 ## IDE'S
 
 - Visual Studio
+
+## Tools
+
+- Postman
+
+##### License: 
+
+- MIT
