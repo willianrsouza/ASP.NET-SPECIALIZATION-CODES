@@ -1,6 +1,10 @@
 ## Freelancer Platform
 
-<img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
+	<style type="text/css">
+	img{border-radius: 10px;}
+	</style>
+     
+<img border src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
      alt="Freelancer Logo" width="250" height="240">
 
 The technology market continues to grow. And with that, the demand for professionals
