@@ -9,6 +9,7 @@
 
 ##### Applied Concepts: 
 
+- Domain Modeling
 - Clean Architecture
 - AWS Services
 
