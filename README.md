@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
      alt="Freelancer Logo" width="220" height="210">
 
-<p>**Project developed during my deepening in backend**<p/> 
+<p> **Project developed during my deepening in backend** <p/> 
 The technology market continues to grow. And with that, the demand for professionals
 who can work on specific projects follows the same pace. **DevFreela** is a platform that 
 facilitates the registration and contracting of **Freenlance** services from developers.
