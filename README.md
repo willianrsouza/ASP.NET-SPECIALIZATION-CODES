@@ -1,6 +1,4 @@
-## Freelancer Platform - 
-
-##Note: Project being built
+## Freelancer Platform -  **Note: Project being built**
      
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
      alt="Freelancer Logo" width="220" height="210">
