@@ -29,12 +29,13 @@ facilitates the registration and contracting of **Freenlance** services from dev
 
 •	Core 
 
- -  Entidades
- -  Enums
- -  Data Access Objects (DTO)
+ - Entidades
+ - Enums
+ - Data Access Objects (DTO)
  - Serviços de Camada de Domínio 
  - Interfaces
  - Exceções de Domínio 
+
 
 
 
