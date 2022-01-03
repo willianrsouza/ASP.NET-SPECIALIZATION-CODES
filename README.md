@@ -1,6 +1,6 @@
 ## Freelancer Platform -  **Note: Project being built**
      
-<img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="right"
      alt="Freelancer Logo" width="220" height="210">
 
  **Project developed during my deepening in backend**  
