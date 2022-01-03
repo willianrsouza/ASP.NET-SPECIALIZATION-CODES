@@ -1,4 +1,4 @@
-## Freelancer Platform
+## Freelancer Platform -  **Note: Project being built**
      
 <img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
      alt="Freelancer Logo" width="220" height="210">
@@ -23,6 +23,20 @@ facilitates the registration and contracting of **Freenlance** services from dev
 2. AWS Microservices.
 3. Add Comments for a Freelancer Service.
 4. Define start and end project.
+
+
+### Clean Architecture Concepts
+
+•	Core 
+
+ - Entidades
+ - Enums
+ - Data Access Objects (DTO)
+ - Serviços de Camada de Domínio 
+ - Interfaces
+ - Exceções de Domínio 
+
+
 
 
 ### IDE'S
