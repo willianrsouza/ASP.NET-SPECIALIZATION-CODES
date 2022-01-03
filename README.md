@@ -27,7 +27,7 @@ facilitates the registration and contracting of **Freenlance** services from dev
 
 ### Clean Architecture Concepts
 
-<img src="<img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/freelancer-gif.gif" align="right"
+<img src="https://raw.githubusercontent.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/main/images/clean-image.png" align="right"
      alt="Freelancer Logo" width="220" height="210">" align="center"
      alt="Freelancer Logo" width="220" height="210">
 
