@@ -198,9 +198,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DTI Digital\\Documents\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
-      "projectName": "DevFreela.API",
-      "projectPath": "C:\\Users\\DTI Digital\\Documents\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+      "projectUniqueName": "C:\\Users\\DTI Digital\\Documents\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\API.csproj",
+      "projectName": "API",
+      "projectPath": "C:\\Users\\DTI Digital\\Documents\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\API.csproj",
       "packagesPath": "C:\\Users\\DTI Digital\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DTI Digital\\Documents\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\obj\\",
       "projectStyle": "PackageReference",
