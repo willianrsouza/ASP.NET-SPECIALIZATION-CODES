@@ -36,7 +36,10 @@ facilitates the registration and contracting of **Freenlance** services from dev
  - Interfaces
  - Exceções de Domínio 
 
+•   Infrastructure
 
+- Acesso a Dados : Entity Framework, Repositórios de Dados
+- Serviços de Infraestrutura : Nuvem, Mensageria, API'S Externas, etc.
 
 
 ### IDE'S
