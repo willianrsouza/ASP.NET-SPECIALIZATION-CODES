@@ -27,6 +27,11 @@ facilitates the registration and contracting of **Freenlance** services from dev
 
 ### Clean Architecture Concepts
 
+•	Application
+
+- Services: Feature Exhibition
+- Input and Output Models: DTOs
+
 •	Core 
 
  - Entidades
@@ -34,9 +39,12 @@ facilitates the registration and contracting of **Freenlance** services from dev
  - Data Access Objects (DTO)
  - Serviços de Camada de Domínio 
  - Interfaces
- - Exceções de Domínio 
+ - Domain Exceptions
 
+•   Infrastructure
 
+- Data Access: Entity Framework, Data Repositories
+- Infrastructure Services: Cloud, Messaging, External API'S, etc.
 
 
 ### IDE'S
