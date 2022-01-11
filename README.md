@@ -50,6 +50,10 @@ facilitates the registration and contracting of **Freenlance** services from dev
 - Data Access: Entity Framework, Data Repositories
 - Infrastructure Services: Cloud, Messaging, External API'S, etc.
 
+### ORM (Object Relational Mapper) Used 
+
+- Entity FrameWork
+
 
 ### IDE'S
 
