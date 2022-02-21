@@ -157,3 +157,5 @@ C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.csproj.CopyComplete
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <Folder Include="CloudServices\" />
+    <Folder Include="Persistence\Migrations\" />
   </ItemGroup>
 
 </Project>
