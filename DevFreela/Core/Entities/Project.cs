@@ -6,25 +6,25 @@ namespace Core.Entities
 {
     public class Project : BaseEntity
     {
-
-        public Project(string title, string description, int idCliente, int idFreelancer decimal totalCost)
+        public Project(string title, string description, int idClient, int idFreelancer, decimal totalCost)
         {
             Title = title;
             Description = description;
-            IdCliente = idCliente;
+            IdClient = idClient;
             IdFreelancer = idFreelancer;
             TotalCost = totalCost;
 
             CreatedAt = DateTime.Now;
             Status = ProjectStatusEnum.Created;
             Comments = new List<ProjectComment>();
-
         }
 
         public string Title { get; private set; }
         public string Description { get; private set; }
-        public int IdCliente { get; private set; }
+        public int IdClient { get; private set; }
+        public User Client { get; private set; }
         public int IdFreelancer { get; private set; }
+        public User Freelancer { get; private set; }
         public decimal TotalCost { get; private set; }
         public DateTime CreatedAt { get; private set; }
         public DateTime? StartedAt { get; private set; }
@@ -34,7 +34,12 @@ namespace Core.Entities
 
         public void Delete()
         {
-            if (Status == ProjectStatusEnum.InProgress)
+            throw new NotImplementedException();
+        }
+
+        public void Cancel()
+        {
+            if (Status == ProjectStatusEnum.InProgress || Status == ProjectStatusEnum.InProgress)
             {
                 Status = ProjectStatusEnum.Cancelled;
             }
@@ -42,7 +47,7 @@ namespace Core.Entities
 
         public void Start()
         {
-            if (Status != ProjectStatusEnum.InProgress || Status == ProjectStatusEnum.Created)
+            if (Status == ProjectStatusEnum.Created)
             {
                 Status = ProjectStatusEnum.InProgress;
                 StartedAt = DateTime.Now;
@@ -54,6 +59,7 @@ namespace Core.Entities
             if (Status == ProjectStatusEnum.InProgress)
             {
                 Status = ProjectStatusEnum.Finished;
+                FinishedAt = DateTime.Now;
             }
         }
 
