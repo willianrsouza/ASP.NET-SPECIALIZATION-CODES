@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PPtrYZY1QpLVZAghHzme0ewrCkZKVAZ2XRJIJm5e+VEsVRZ0Gjx5YQLIU0aYfIkD+B/+CdSEz1WuiT1KSl6tjg==",
+  "dgSpecHash": "lhqIN5KoY0UE0+x64eQGpEmuF/40wohSNbk1zhh+Nl6rwnL0FeSwFMFa2EPT66Itw3Q6Kllvk3On70a8ijS6Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DTI Digital\\Documents\\.NET Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\DevFreela.API\\API.csproj",
+  "projectFilePath": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\DevFreela.API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DTI Digital\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\DTI Digital\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

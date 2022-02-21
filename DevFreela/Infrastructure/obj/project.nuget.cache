@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iafmOxy+Bc7Tw1+p10pp6H8JLoZtbYOX6oVeHSEdUmShOGljwVwB2wWBgwKjgGAoqY9ERzz/zWOJijnImiykvg==",
+  "dgSpecHash": "jVzXf4pSCAza1hUKZUZYV2tvvkteKFqcJnLR06nUEZ2F+C5T071IRQAf71r8rql8dKhyfbOXgtBxkgAuPPBnIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DTI Digital\\Documents\\.NET Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DTI Digital\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DTI Digital\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

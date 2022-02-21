@@ -15,3 +15,20 @@ C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela
 C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.dll
 C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\Application.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\ref\Application.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\Core.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\Core.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Application\obj\Debug\net5.0\Application.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DTI Digital\\Documents\\.NET Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj": {}
+    "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DTI Digital\\Documents\\.NET Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj": {
+    "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DTI Digital\\Documents\\.NET Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\DTI Digital\\Documents\\.NET Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\DTI Digital\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DTI Digital\\Documents\\.NET Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\obj\\",
+        "outputPath": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTI Digital\\AppData\\Roaming\\NuGet\\NuGet.Config",

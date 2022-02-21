@@ -80,7 +80,5 @@ namespace DevFreela.API.Controllers
         {
             return Ok();
         }
-
-
     }
 }
