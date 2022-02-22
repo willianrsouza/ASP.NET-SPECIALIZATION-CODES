@@ -9,12 +9,6 @@ The technology market continues to grow. And with that, the demand for professio
 who can work on specific projects follows the same pace. **DevFreela** is a platform that 
 facilitates the registration and contracting of **Freenlance** services from developers.
 
-### Operations 
-
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/operations.png?raw=true" align="center"
-     alt="Freelancer Logo" width="1329" height="800">
-
-
 
 ### Modeling Domain
 
