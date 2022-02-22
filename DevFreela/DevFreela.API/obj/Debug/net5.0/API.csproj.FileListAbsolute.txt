@@ -92,16 +92,6 @@ C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela
 C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\ref\API.dll
 C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.pdb
 C:\Users\DTI Digital\Documents\.NET Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.genruntimeconfig.cache
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.AssemblyInfo.cs
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.dll
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\ref\API.dll
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.pdb
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\appsettings.json
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\API.exe
@@ -111,9 +101,11 @@ C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\API.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\ref\API.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\API.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -151,11 +143,19 @@ C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Application.pdb
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Infrastructure.pdb
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Core.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\ref\API.dll
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.pdb
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\obj\Debug\net5.0\API.genruntimeconfig.cache
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Humanizer.dll
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\DevFreela.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

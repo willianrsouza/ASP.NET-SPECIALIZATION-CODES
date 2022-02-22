@@ -3,6 +3,7 @@ using Application.Services.Interfaces;
 using Application.ViewModels;
 using Core.Entities;
 using Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -22,15 +23,17 @@ namespace Application.Services.Implementations
             var project = new Project(inputModel.Title, inputModel.Description, inputModel.IdClient, inputModel.IdFreelancer, inputModel.TotalCost);
 
             _dbContext.Projects.Add(project);
+            _dbContext.SaveChanges();
 
             return project.Id;
         }
 
-        public void Create(CreateCommentInputModel inputModel)
+        public void CreateComment(CreateCommentInputModel inputModel)
         {
             var comment = new ProjectComment(inputModel.Content, inputModel.IdProject, inputModel.IdUser);
 
             _dbContext.ProjectComments.Add(comment);
+            _dbContext.SaveChanges();
         }
 
         public void Delete(int Id)
@@ -38,6 +41,7 @@ namespace Application.Services.Implementations
             var project = _dbContext.Projects.SingleOrDefault(p => p.Id == Id);
 
             project.Delete();
+            _dbContext.SaveChanges();
         }
 
         public void Finish(int Id)
@@ -58,7 +62,12 @@ namespace Application.Services.Implementations
 
         public ProjectDetailsViewModel GetById(int Id)
         {
-            var project = _dbContext.Projects.SingleOrDefault(p => p.Id == Id);
+            var project = _dbContext.Projects
+               .Include(p => p.Client)
+               .Include(p => p.Freelancer)
+               .SingleOrDefault(p => p.Id == Id);
+
+            if (project == null) return null;
 
             var projectDetailsViewModel = new ProjectDetailsViewModel(
                 project.Id,
@@ -66,7 +75,9 @@ namespace Application.Services.Implementations
                 project.Description,
                 project.TotalCost,
                 project.StartedAt,
-                project.FinishedAt
+                project.FinishedAt,
+                project.Client.FullName,
+                project.Freelancer.FullName
                 );
 
             return projectDetailsViewModel;
@@ -77,6 +88,7 @@ namespace Application.Services.Implementations
             var project = _dbContext.Projects.SingleOrDefault(p => p.Id == Id);
 
             project.Start();
+            _dbContext.SaveChanges();
         }
 
         public void Update(UpdateProjectInputModel inputModel)
@@ -84,7 +96,16 @@ namespace Application.Services.Implementations
             var project = _dbContext.Projects.SingleOrDefault(p => p.Id == inputModel.Id);
 
             project.Update(inputModel.Title, inputModel.Description, inputModel.TotalCost);
+            _dbContext.SaveChanges();
+        }
 
+        public string Status(int Id)
+        {
+            var project = _dbContext.Projects.SingleOrDefault(p => p.Id == Id);
+
+            var status = project.Status.ToString();
+
+            return status;
         }
     }
 }

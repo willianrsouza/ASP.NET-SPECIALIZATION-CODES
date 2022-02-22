@@ -9,24 +9,26 @@ namespace Application.Services.Implementations
 {
     public class UserService : IUserService
     {
-        private DevFreelaDbContext _devFreelaDbContext;
+        private DevFreelaDbContext _dbContext;
 
         public UserService(DevFreelaDbContext devFreelaDbContext)
         {
-            _devFreelaDbContext = devFreelaDbContext;
+            _dbContext = devFreelaDbContext;
         }
 
         public int Create(NewUserInputModel inputModel)
         {
             var user = new User(inputModel.FullName, inputModel.Email, inputModel.BirthDate);
-            _devFreelaDbContext.Users.Add(user);
+
+            _dbContext.Users.Add(user);
+            _dbContext.SaveChanges();
 
             return user.Id;
         }
 
         public UserViewModel GetById(int id)
         {
-            var user = _devFreelaDbContext.Users.SingleOrDefault(u => u.Id == id);
+            var user = _dbContext.Users.SingleOrDefault(u => u.Id == id);
 
             var UserViewModel = new UserViewModel(user.FullName, user.Email, user.Active);
 
@@ -35,9 +37,10 @@ namespace Application.Services.Implementations
 
         public void Update(UpdateUserInputModel inputModel)
         {
-            var user = _devFreelaDbContext.Users.SingleOrDefault(u => u.Id == inputModel.Id);
+            var user = _dbContext.Users.SingleOrDefault(u => u.Id == inputModel.Id);
 
             user.Update(inputModel.Email);
+            _dbContext.SaveChanges();
 
         }
     }

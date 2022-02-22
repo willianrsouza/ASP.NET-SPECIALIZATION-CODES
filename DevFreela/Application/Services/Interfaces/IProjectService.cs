@@ -1,5 +1,6 @@
 ﻿using Application.InputModels;
 using Application.ViewModels;
+using System;
 using System.Collections.Generic;
 
 namespace Application.Services.Interfaces
@@ -10,8 +11,10 @@ namespace Application.Services.Interfaces
         ProjectDetailsViewModel GetById(int id);
         int Create(NewProjectInputModel inputModel);
         void Update(UpdateProjectInputModel inputModel);
-        void Delete(int Id);
-        void Start(int Id);
-        void Finish(int Id);
+        void Delete(int id);
+        void CreateComment(CreateCommentInputModel inputModel);
+        void Start(int id);
+        void Finish(int id);
+        String Status(int id);
     }
 }

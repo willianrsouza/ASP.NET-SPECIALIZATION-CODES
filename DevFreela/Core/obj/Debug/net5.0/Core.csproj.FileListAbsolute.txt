@@ -13,6 +13,7 @@ C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\bin\Debug\net5.0\Core.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\bin\Debug\net5.0\ref\Core.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
@@ -20,4 +21,3 @@ C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\Core.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\ref\Core.dll
 C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\DTI Digital\OneDrive - dti digital crafters\Área de Trabalho\Curso\ASP.NET-SPECIALIZATION-CODES\DevFreela\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
