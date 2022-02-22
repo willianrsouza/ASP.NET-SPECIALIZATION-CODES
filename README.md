@@ -11,7 +11,7 @@ facilitates the registration and contracting of **Freenlance** services from dev
 
 ### Operations 
 
-<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/freelancer-logo.png?raw=true" align="right"
+<img src="https://github.com/willianrsouza/ASP.NET-SPECIALIZATION-CODES/blob/main/images/operations.png?raw=true" align="center"
      alt="Freelancer Logo" width="220" height="210">
 
 
