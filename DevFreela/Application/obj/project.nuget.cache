@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5hRBxlncFxVNCagxI5iiOpkGj//0KFSOt8kfyLwIKe22fhmCvF234daPPoFhwGPMgTnB+qtVe7gxFeqItglU9w==",
+  "dgSpecHash": "nplAMAYy7n/Dpc3kS5s/Na8quPlbuwVg5/yd4GKXne+okU79cH0/LAVt9OyO1+QI/onTRNTPwtA5BNyY3Zunog==",
   "success": true,
   "projectFilePath": "C:\\Users\\DTI Digital\\OneDrive - dti digital crafters\\Área de Trabalho\\Curso\\ASP.NET-SPECIALIZATION-CODES\\DevFreela\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DTI Digital\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\DTI Digital\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\DTI Digital\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\DTI Digital\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\DTI Digital\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
